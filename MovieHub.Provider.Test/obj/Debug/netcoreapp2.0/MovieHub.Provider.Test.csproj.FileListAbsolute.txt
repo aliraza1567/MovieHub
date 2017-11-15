@@ -1,0 +1,16 @@
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\MovieHub.Provider.Test.deps.json
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\MovieHub.Provider.Test.runtimeconfig.json
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\MovieHub.Provider.Test.runtimeconfig.dev.json
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\MovieHub.Provider.Test.dll
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\MovieHub.Provider.Test.pdb
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\MovieHub.Provider.dll
+D:\Projects\MovieHub\MovieHub.Provider.Test\bin\Debug\netcoreapp2.0\MovieHub.Provider.pdb
+D:\Projects\MovieHub\MovieHub.Provider.Test\obj\Debug\netcoreapp2.0\MovieHub.Provider.Test.csprojResolveAssemblyReference.cache
+D:\Projects\MovieHub\MovieHub.Provider.Test\obj\Debug\netcoreapp2.0\MovieHub.Provider.Test.csproj.CoreCompileInputs.cache
+D:\Projects\MovieHub\MovieHub.Provider.Test\obj\Debug\netcoreapp2.0\MovieHub.Provider.Test.AssemblyInfoInputs.cache
+D:\Projects\MovieHub\MovieHub.Provider.Test\obj\Debug\netcoreapp2.0\MovieHub.Provider.Test.AssemblyInfo.cs
+D:\Projects\MovieHub\MovieHub.Provider.Test\obj\Debug\netcoreapp2.0\MovieHub.Provider.Test.dll
+D:\Projects\MovieHub\MovieHub.Provider.Test\obj\Debug\netcoreapp2.0\MovieHub.Provider.Test.pdb
