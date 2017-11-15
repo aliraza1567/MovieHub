@@ -12543,9 +12543,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\MovieHub\\MovieHub\\MovieHub.csproj",
-      "projectName": "MovieHub",
-      "projectPath": "D:\\Projects\\MovieHub\\MovieHub\\MovieHub.csproj",
+      "projectUniqueName": "D:\\Projects\\MovieHub\\MovieHub\\MovieHub.Api.csproj",
+      "projectName": "MovieHub.Api",
+      "projectPath": "D:\\Projects\\MovieHub\\MovieHub\\MovieHub.Api.csproj",
       "packagesPath": "C:\\Users\\Ali Raza\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\MovieHub\\MovieHub\\obj\\",
       "projectStyle": "PackageReference",

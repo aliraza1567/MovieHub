@@ -1,0 +1,11 @@
+D:\Projects\MovieHub\MovieHub\bin\Debug\netcoreapp2.0\MovieHub.Api.deps.json
+D:\Projects\MovieHub\MovieHub\bin\Debug\netcoreapp2.0\MovieHub.Api.runtimeconfig.json
+D:\Projects\MovieHub\MovieHub\bin\Debug\netcoreapp2.0\MovieHub.Api.runtimeconfig.dev.json
+D:\Projects\MovieHub\MovieHub\bin\Debug\netcoreapp2.0\MovieHub.Api.dll
+D:\Projects\MovieHub\MovieHub\bin\Debug\netcoreapp2.0\MovieHub.Api.pdb
+D:\Projects\MovieHub\MovieHub\obj\Debug\netcoreapp2.0\MovieHub.Api.csprojResolveAssemblyReference.cache
+D:\Projects\MovieHub\MovieHub\obj\Debug\netcoreapp2.0\MovieHub.Api.csproj.CoreCompileInputs.cache
+D:\Projects\MovieHub\MovieHub\obj\Debug\netcoreapp2.0\MovieHub.Api.AssemblyInfoInputs.cache
+D:\Projects\MovieHub\MovieHub\obj\Debug\netcoreapp2.0\MovieHub.Api.AssemblyInfo.cs
+D:\Projects\MovieHub\MovieHub\obj\Debug\netcoreapp2.0\MovieHub.Api.dll
+D:\Projects\MovieHub\MovieHub\obj\Debug\netcoreapp2.0\MovieHub.Api.pdb

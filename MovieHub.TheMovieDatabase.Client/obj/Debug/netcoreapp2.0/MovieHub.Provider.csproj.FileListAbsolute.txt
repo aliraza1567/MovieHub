@@ -1,0 +1,9 @@
+D:\Projects\MovieHub\MovieHub.TheMovieDatabase.Client\bin\Debug\netcoreapp2.0\MovieHub.Provider.deps.json
+D:\Projects\MovieHub\MovieHub.TheMovieDatabase.Client\bin\Debug\netcoreapp2.0\MovieHub.Provider.dll
+D:\Projects\MovieHub\MovieHub.TheMovieDatabase.Client\bin\Debug\netcoreapp2.0\MovieHub.Provider.pdb
+D:\Projects\MovieHub\MovieHub.TheMovieDatabase.Client\obj\Debug\netcoreapp2.0\MovieHub.Provider.csprojResolveAssemblyReference.cache
+D:\Projects\MovieHub\MovieHub.TheMovieDatabase.Client\obj\Debug\netcoreapp2.0\MovieHub.Provider.csproj.CoreCompileInputs.cache
+D:\Projects\MovieHub\MovieHub.TheMovieDatabase.Client\obj\Debug\netcoreapp2.0\MovieHub.Provider.AssemblyInfoInputs.cache
+D:\Projects\MovieHub\MovieHub.TheMovieDatabase.Client\obj\Debug\netcoreapp2.0\MovieHub.Provider.AssemblyInfo.cs
+D:\Projects\MovieHub\MovieHub.TheMovieDatabase.Client\obj\Debug\netcoreapp2.0\MovieHub.Provider.dll
+D:\Projects\MovieHub\MovieHub.TheMovieDatabase.Client\obj\Debug\netcoreapp2.0\MovieHub.Provider.pdb
